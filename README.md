@@ -1,5 +1,5 @@
-# 🚀 Ketaki Aloni
-### 💻 Developer | 🤖 AI Enthusiast | ✨ Future Innovator
+# 🚀 Hey, I'm Ketaki Aloni 👋
+### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 Building Impactful Systems
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ketakialoni&label=Profile%20Views&color=0e76a8&style=flat" alt="Views" />
@@ -34,6 +34,14 @@ I am a Final Year Computer Science student dedicated to building **technology th
 | :--- | :--- | :--- |
 | **🧠 CampusRide** | Smart, reliable ride-sharing solution tailored for campus life. | React, Node.js, MongoDB |
 | **🚪 MediQuest** | A platform to redistribute unused medicine to save lives. | AI, Python, Flask |
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ketaki1100&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=ketaki1100&theme=tokyonight" />
+</p>
 
 ---
 
